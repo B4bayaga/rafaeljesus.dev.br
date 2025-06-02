@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pessoal on Rafael Jesus</title>
+    <link>http://localhost:1313/categories/pessoal/</link>
+    <description>Recent content in Pessoal on Rafael Jesus</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Jun 2025 15:36:19 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pessoal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O início</title>
+      <link>http://localhost:1313/posts/inicio-do-blog/</link>
+      <pubDate>Mon, 02 Jun 2025 15:36:19 -0300</pubDate>
+      <guid>http://localhost:1313/posts/inicio-do-blog/</guid>
+      <description>&lt;h2 id=&#34;bem-vindo-ao-meu-blog-um-espaço-para-inovação-em-programação-e-negócios&#34;&gt;&#xA;  Bem-vindo ao Meu Blog! Um Espaço para Inovação em Programação e Negócios&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#bem-vindo-ao-meu-blog-um-espa%c3%a7o-para-inova%c3%a7%c3%a3o-em-programa%c3%a7%c3%a3o-e-neg%c3%b3cios&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Olá, mundo! 👋&lt;/p&gt;&#xA;&lt;p&gt;É com grande entusiasmo que dou as boas-vindas a este espaço digital, o &lt;strong&gt;Meu Blog&lt;/strong&gt;! Este blog nasce da minha paixão por uma área que considero incrivelmente dinâmica e transformadora: &lt;strong&gt;programação&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Ao longo dos anos, tenho mergulhado em códigos, explorado arquiteturas de software, desvendado algoritmos e, paralelamente, me fascinado pelo universo do empreendedorismo, estratégias de mercado, modelos de negócio inovadores e a arte de transformar ideias em realidade. Acredito firmemente que a intersecção entre tecnologia e visão de negócios tem um enorme potencial de mudar vidas, impulsionando a inovação e criando soluções que impactam o mundo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
