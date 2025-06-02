@@ -1,9 +1,12 @@
-baseurl = "http://www.example.com"
+baseurl = "https://rafaeljesus.github.io"
 title = "Rafael Jesus"
 theme = "hugo-coder"
 languagecode = "pt-br"
 defaultcontentlanguage = "en"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [pagination]
 pagerSize = 20
