@@ -9,6 +9,20 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs: # Opcional: defina inputs se quiser passar parâmetros
+      logLevel:
+        description: 'Nível de Log'
+        required: false
+        default: 'info'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+      tags:
+        description: 'Tags de teste'
+        required: false
+        type: string
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
